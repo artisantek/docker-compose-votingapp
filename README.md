@@ -10,6 +10,7 @@ docker compose up -d
 The app will be running at [<host-ip>:5000], and the results will be at [<host-ip>:5001].
 
 Architecture
+-----
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/113725746/206866733-6a171a52-3319-4c9b-a695-b1fb0821b357.png" alt="architecture" width="500"/>
