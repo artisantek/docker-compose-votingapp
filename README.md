@@ -3,7 +3,7 @@ Example Voting App
 
 A simple distributed application running across multiple Docker containers.
 
-Run the following command inside the directory directory:
+Run the following command inside the directory:
 ```
 docker compose up -d
 ```
