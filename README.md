@@ -11,11 +11,8 @@ The app will be running at [<host-ip>:5000], and the results will be at [<host-i
 
 Architecture
 
-![architecture](https://user-images.githubusercontent.com/113725746/206866733-6a171a52-3319-4c9b-a695-b1fb0821b357.png)
-
-Test
 <p align="center">
-<img src="https://user-images.githubusercontent.com/113725746/206866733-6a171a52-3319-4c9b-a695-b1fb0821b357.png" alt="architecture" width="600"/>
+<img src="https://user-images.githubusercontent.com/113725746/206866733-6a171a52-3319-4c9b-a695-b1fb0821b357.png" alt="architecture" width="500"/>
 </p>
 
 * A front-end web app in [Python](/vote) or [ASP.NET Core](/vote/dotnet) which lets you vote between two options
