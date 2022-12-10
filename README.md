@@ -12,9 +12,6 @@ The app will be running at [hostip:5000], and the results will be at [hostip:500
 Architecture
 -----
 
-![Architecture](https://user-images.githubusercontent.com/113725746/206869022-b74f040a-47af-4f21-aceb-72c057840bfa.jpg)
-
-
 <p align="center">
 <img src="https://user-images.githubusercontent.com/113725746/206869022-b74f040a-47af-4f21-aceb-72c057840bfa.jpg" alt="architecture" width="500"/>
 </p>
