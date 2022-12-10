@@ -1,4 +1,4 @@
-Example Voting App
+Docker Compose Voting App
 =========
 
 A simple distributed application running across multiple Docker containers.
