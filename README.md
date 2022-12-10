@@ -7,7 +7,7 @@ Run the following command inside the directory directory:
 ```
 docker compose up -d
 ```
-The app will be running at [<host-ip>:5000], and the results will be at [<host-ip>:5001].
+The app will be running at [host-ip:5000], and the results will be at [host-ip:5001].
 
 Architecture
 -----
