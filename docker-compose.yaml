@@ -12,7 +12,6 @@ services:
 
   result:
     build: ./result
-    command: nodemon server.js
     depends_on:
       db:
         condition: service_healthy 
