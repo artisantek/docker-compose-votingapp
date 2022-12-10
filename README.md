@@ -12,8 +12,11 @@ The app will be running at [hostip:5000], and the results will be at [hostip:500
 Architecture
 -----
 
+![Architecture](https://user-images.githubusercontent.com/113725746/206869022-b74f040a-47af-4f21-aceb-72c057840bfa.jpg)
+
+
 <p align="center">
-<img src="https://user-images.githubusercontent.com/113725746/206866733-6a171a52-3319-4c9b-a695-b1fb0821b357.png" alt="architecture" width="500"/>
+<img src="https://user-images.githubusercontent.com/113725746/206869022-b74f040a-47af-4f21-aceb-72c057840bfa.jpg" alt="architecture" width="500"/>
 </p>
 
 * A front-end web app in [Python](/vote) which lets you vote between two options
