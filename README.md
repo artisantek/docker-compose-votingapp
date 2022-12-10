@@ -11,7 +11,11 @@ The app will be running at [<host-ip>:5000], and the results will be at [<host-i
 
 Architecture
 
-![architecture](https://user-images.githubusercontent.com/113725746/206866733-6a171a52-3319-4c9b-a695-b1fb0821b357.png =250x)
+![architecture](https://user-images.githubusercontent.com/113725746/206866733-6a171a52-3319-4c9b-a695-b1fb0821b357.png)
+
+Test
+  
+<img src="https://user-images.githubusercontent.com/113725746/206866733-6a171a52-3319-4c9b-a695-b1fb0821b357.png" alt="architecture" width="200"/>
 
 * A front-end web app in [Python](/vote) or [ASP.NET Core](/vote/dotnet) which lets you vote between two options
 * A [Redis](https://hub.docker.com/_/redis/) or [NATS](https://hub.docker.com/_/nats/) queue which collects new votes
