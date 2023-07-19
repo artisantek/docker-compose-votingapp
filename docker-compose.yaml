@@ -11,7 +11,7 @@ services:
       - "5000:80"
 
   result:
-    build: ./result
+    image: dockersamples/examplevotingapp_result
     depends_on:
       db:
         condition: service_healthy 
